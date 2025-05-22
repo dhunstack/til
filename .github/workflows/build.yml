@@ -11,12 +11,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: read
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      contents: write  # This gives permission to push changes
     steps:
       - name: Check out repo
         uses: actions/checkout@v2
