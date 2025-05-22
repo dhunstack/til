@@ -6,4 +6,8 @@ My Today I Learned snippets. Stolen from [simonw/til](https://github.com/simonw/
 ## python
 
 * [First TIL](https://github.com/dhunstack/til/blob/main/python/test-til.md) - 2025-05-22
+
+## pytorch
+
+* [Locate Cpp implementations in PyTorch](https://github.com/dhunstack/til/blob/main/pytorch/pytorch-cpp-implementations.md) - 2025-05-22
 <!-- index ends -->
