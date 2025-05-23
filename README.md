@@ -15,4 +15,8 @@ My Today I Learned snippets. Stolen from [simonw/til](https://github.com/simonw/
 ## blog-templates
 
 * [Setting up TIL blog](https://github.com/dhunstack/til/blob/main/blog-templates/setting-up-til-blog.md) - 2025-05-22
+
+## demucs
+
+* [Demucs Training Details](https://github.com/dhunstack/til/blob/main/demucs/demucs-training.md) - 2025-05-23
 <!-- index ends -->
