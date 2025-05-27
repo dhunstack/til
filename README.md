@@ -13,6 +13,7 @@ My Today I Learned snippets. Stolen from [simonw/til](https://github.com/simonw/
 * [Reimplementing Pytorch STFT](https://github.com/dhunstack/til/blob/main/pytorch/reimplementing-pytorch-stft.md) - 2025-05-22
 * [Implementing convolution](https://github.com/dhunstack/til/blob/main/pytorch/implementing-convolutions.md) - 2025-05-24
 * [Padding and Strides](https://github.com/dhunstack/til/blob/main/pytorch/padding-and-stride.md) - 2025-05-25
+* [Pooling](https://github.com/dhunstack/til/blob/main/pytorch/pooling.md) - 2025-05-27
 
 ## blog-templates
 
