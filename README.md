@@ -24,4 +24,8 @@ My Today I Learned snippets. Stolen from [simonw/til](https://github.com/simonw/
 
 * [Demucs Training Details](https://github.com/dhunstack/til/blob/main/demucs/demucs-training.md) - 2025-05-23
 * [Testing STFT implementation](https://github.com/dhunstack/til/blob/main/demucs/stft-tests.md) - 2025-05-24
+
+## deep-learning
+
+* [Calculating parameters in AlexNet](https://github.com/dhunstack/til/blob/main/deep-learning/alexnet-parameters.md) - 2025-06-06
 <!-- index ends -->
