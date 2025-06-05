@@ -1,5 +1,9 @@
 # Calculating parameters in AlexNet
 
+There's some debate over input size of AlexNet, if it's 224 or 227.
+This creates a significant difference in the number of parameters in `fc1` layer, a difference of almost `11 million` parameters.
+Based on the original paper, PyTorch forum [link](https://discuss.pytorch.org/t/alexnet-input-size-224-or-227/41272/2?u=dhunstack) and Wikipedia [entry](https://en.wikipedia.org/wiki/AlexNet), I will work with 224 input size.
+
 ```
 conv1: (11*11)*3*96 + 96 = 34944
 
@@ -20,5 +24,5 @@ fc3: 4096*1000 + 1000 = 4097000
 
 This results in a total number of 50844008 parameters.
 
-Manual Calculation 
+Manual Calculation, only weights no bias parameters.
 ![Alexnet Parameters](./alexnet-parameters.png)
