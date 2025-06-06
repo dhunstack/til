@@ -24,5 +24,8 @@ fc3: 4096*1000 + 1000 = 4097000
 
 This results in a total number of 50844008 parameters.
 
+The exact memory requirements during training would also need to account for gradients, momentum, intermediate layer outputs etc. Details in slide 16 of [this](https://imatge-upc.github.io/telecombcn-2016-dlcv/slides/D2L1-memory.pdf) presentation.
+
+Below figure calculates number of parameters and estimates memory requirements at `FP32` precision.
 Manual Calculation, only weights no bias parameters.
 ![Alexnet Parameters](./alexnet-parameters.png)
