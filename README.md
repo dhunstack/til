@@ -25,6 +25,7 @@ My Today I Learned snippets. Stolen from [simonw/til](https://github.com/simonw/
 * [Demucs Training Details](https://github.com/dhunstack/til/blob/main/demucs/demucs-training.md) - 2025-05-23
 * [Testing STFT implementation](https://github.com/dhunstack/til/blob/main/demucs/stft-tests.md) - 2025-05-24
 * [Demucs ORT Inference](https://github.com/dhunstack/til/blob/main/demucs/demucs-ort-inference.md) - 2025-06-19
+* [Resolving nan outputs in ONNX Runtime inference](https://github.com/dhunstack/til/blob/main/demucs/resolving-nan-ort.md) - 2025-06-20
 
 ## deep-learning
 
