@@ -15,6 +15,7 @@ My Today I Learned snippets. Stolen from [simonw/til](https://github.com/simonw/
 * [Padding and Strides](https://github.com/dhunstack/til/blob/main/pytorch/padding-and-stride.md) - 2025-05-25
 * [Pooling](https://github.com/dhunstack/til/blob/main/pytorch/pooling.md) - 2025-05-27
 * [LeNet](https://github.com/dhunstack/til/blob/main/pytorch/lenet.md) - 2025-05-28
+* [Audio Signal Processing in PyTorch](https://github.com/dhunstack/til/blob/main/pytorch/audio-signal-processing.md) - 2025-06-25
 
 ## blog-templates
 
